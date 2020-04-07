@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5418155f-2696-4d8e-9a4d-06e69f54225e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZxGWIxGeOousrBSuJrS9aHqOQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../02_polymorphism/code/polymorphism_start_point" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in interfaces_start_point">
+    <configuration name="All in interfaces_start_point" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTest.canBeReferredToAsInterfaceType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunnerTest" />
+      <option name="METHOD_NAME" value="canBeReferredToAsInterfaceType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwimmerTest.canSwim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwimmerTest" />
+      <option name="METHOD_NAME" value="canSwim" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriathleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriathleteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriathleteTest.canSwim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interfaces_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TriathleteTest" />
+      <option name="METHOD_NAME" value="canSwim" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in interfaces_start_point" />
+        <item itemvalue="JUnit.RunnerTest.canBeReferredToAsInterfaceType" />
+        <item itemvalue="JUnit.TriathleteTest" />
+        <item itemvalue="JUnit.TriathleteTest.canSwim" />
+        <item itemvalue="JUnit.SwimmerTest.canSwim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5418155f-2696-4d8e-9a4d-06e69f54225e" name="Default Changelist" comment="" />
+      <created>1569920520743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569920520743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="27" width="800" height="676" key="#Project_Structure" timestamp="1585773604387">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="278" y="27" width="800" height="676" key="#Project_Structure/0.27.1366.676@0.27.1366.676" timestamp="1585773604387" />
+    <state x="524" y="256" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585773514526">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="524" y="256" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1366.676@0.27.1366.676" timestamp="1585773514526" />
+    <state x="261" y="27" width="824" height="676" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585773497213">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="261" y="27" width="824" height="676" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.27.1366.676@0.27.1366.676" timestamp="1585773497213" />
+    <state x="466" y="122" width="527" height="484" key="FileChooserDialogImpl" timestamp="1585779075971">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="466" y="122" width="527" height="484" key="FileChooserDialogImpl/0.27.1366.676@0.27.1366.676" timestamp="1585779075971" />
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1585833462979">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.27.1366.676@0.27.1366.676" timestamp="1585833462979" />
+    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1585833462978">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.center/0.27.1366.676@0.27.1366.676" timestamp="1585833462978" />
+    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1585833462977">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.left/0.27.1366.676@0.27.1366.676" timestamp="1585833462977" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1585833462978">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state width="1320" height="154" key="GridCell.Tab.0.right/0.27.1366.676@0.27.1366.676" timestamp="1585833462978" />
+    <state x="172" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1585777311608">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="172" y="27" width="1012" height="676" key="SettingsEditor/0.27.1366.676@0.27.1366.676" timestamp="1585777311608" />
+    <state x="0" y="55" width="1356" height="618" key="new project wizard" timestamp="1585833711248">
+      <screen x="0" y="27" width="1366" height="676" />
+    </state>
+    <state x="0" y="55" width="1356" height="618" key="new project wizard/0.27.1366.676@0.27.1366.676" timestamp="1585833711248" />
+  </component>
+</project>

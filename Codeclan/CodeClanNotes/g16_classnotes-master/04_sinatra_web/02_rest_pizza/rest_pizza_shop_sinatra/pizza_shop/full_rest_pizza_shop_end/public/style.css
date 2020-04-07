@@ -1,0 +1,13 @@
+.red {
+  background-image: url('./images/italy-flag.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  displa
+}

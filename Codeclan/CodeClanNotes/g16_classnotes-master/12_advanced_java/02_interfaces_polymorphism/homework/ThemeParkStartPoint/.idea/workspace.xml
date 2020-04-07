@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48de3c1f-d242-40d9-9845-66df41fc94b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/ThemeParkStartPoint.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="296" />
+    <option name="y" value="23" />
+    <option name="width" value="1064" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectId" id="1a013pafPdyIh55S1aisJ6z0wgE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in ThemeParkStartPoint">
+    <configuration name="All in ThemeParkStartPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DodgemTest.getPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.DodgemTest" />
+      <option name="METHOD_NAME" value="getPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IceCreamStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stalls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stalls" />
+      <option name="MAIN_CLASS_NAME" value="stalls.IceCreamStallTest" />
+      <option name="METHOD_NAME" value="hasRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RollercoasterTest.getPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.RollercoasterTest" />
+      <option name="METHOD_NAME" value="getPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TobaccoStallTest.hasRating" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stalls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stalls" />
+      <option name="MAIN_CLASS_NAME" value="stalls.TobaccoStallTest" />
+      <option name="METHOD_NAME" value="hasRating" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in ThemeParkStartPoint" />
+        <item itemvalue="JUnit.DodgemTest.getPrice" />
+        <item itemvalue="JUnit.RollercoasterTest.getPrice" />
+        <item itemvalue="JUnit.TobaccoStallTest.hasRating" />
+        <item itemvalue="JUnit.IceCreamStallTest.hasRating" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48de3c1f-d242-40d9-9845-66df41fc94b1" name="Default Changelist" comment="" />
+      <created>1569942119807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569942119807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1857" y="95" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585861104873">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state x="1857" y="95" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.2732.676@0.27.2732.676" timestamp="1585861104873" />
+    <state x="1890" y="275" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585857637273">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state x="1890" y="275" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.2732.676@0.27.2732.676" timestamp="1585857637273" />
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom" timestamp="1585867879941">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom/0.27.2732.676@0.27.2732.676" timestamp="1585867879941" />
+    <state width="1320" height="230" key="GridCell.Tab.0.center" timestamp="1585867879940">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.center/0.27.2732.676@0.27.2732.676" timestamp="1585867879940" />
+    <state width="1320" height="230" key="GridCell.Tab.0.left" timestamp="1585867879939">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.left/0.27.2732.676@0.27.2732.676" timestamp="1585867879939" />
+    <state width="1320" height="230" key="GridCell.Tab.0.right" timestamp="1585867879941">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.right/0.27.2732.676@0.27.2732.676" timestamp="1585867879941" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1585867879942">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.27.2732.676@0.27.2732.676" timestamp="1585867879942" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1585867879942">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/0.27.2732.676@0.27.2732.676" timestamp="1585867879942" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1585867879941">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/0.27.2732.676@0.27.2732.676" timestamp="1585867879941" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1585867879942">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/0.27.2732.676@0.27.2732.676" timestamp="1585867879942" />
+    <state x="1713" y="168" key="run.anything.popup" timestamp="1585860901089">
+      <screen x="0" y="27" width="2732" height="676" />
+    </state>
+    <state x="1713" y="168" key="run.anything.popup/0.27.2732.676@0.27.2732.676" timestamp="1585860901089" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

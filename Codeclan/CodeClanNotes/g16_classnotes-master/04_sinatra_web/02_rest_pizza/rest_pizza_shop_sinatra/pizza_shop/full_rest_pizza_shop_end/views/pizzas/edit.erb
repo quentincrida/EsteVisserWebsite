@@ -1,0 +1,24 @@
+<form action="/pizzas/<%=@order.id %>" method="POST">
+
+  <label for="customer">Customer:</label>
+  <select name="customer_id" id="customer">
+    <% for customer in @customers %>
+      <option <%= "selected" if @order.customer_id == customer.id %> value="<%= customer.id %>">
+        <%= customer.pretty_name() %>
+      </option>
+    <% end %>
+  </select>
+
+  <label for="pizza-topping">Topping:</label>
+  <select name="topping" id="pizza-topping">
+    <% for topping in @toppings %>
+      <option <%= "selected" if @order.topping == topping %> value="<%= topping %>"><%= topping %></option>
+    <% end %>
+  </select>
+
+  <label for="order-quantity">Quantity:</label>
+  <input type="number" min="1" id="order-quantity" name="quantity" value="<%= @order.quantity %>">
+
+  <input required type="submit" value="Update Pizza">
+
+</form>

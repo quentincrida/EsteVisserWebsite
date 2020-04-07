@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Vue Countries</title>
+	<script src="./js/bundle.js"></script>
+	<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+
+	<h1>Countries App</h1>
+
+	<div id="app">
+		<h2>Global Population: {{globalPopulation}}</h2>
+
+		<label for="country_select">Select a Country:</label>
+		<select id="country_select" v-model="selectedCountry" >
+			<option disabled value="">Select a country</option>
+			<option v-for="country in countries" :value="country">{{country.name}}</option>
+		</select>
+
+		<div id="selected_country" v-if="selectedCountry">
+				<h2>{{selectedCountry.name}}</h2>
+				<p> Population: {{selectedCountry.population}} </p>
+        <img class="lrg-flag" :src="selectedCountry.flag" />
+				<button v-if="!favCountries.includes(selectedCountry)" @click="addCountryToList">Save Country</button>
+
+			<div id="neighbouring_countries" v-if="neighbouringCountries.length">
+				<h3>Neighbouring Countries</h3>
+				<h5>Population of neighbouring countries: {{neighbouringPop}}</h5>
+				<ul>
+					<li v-for="country in neighbouringCountries">
+						<p>{{country.name}}</p>
+						<img :src="country.flag" class="med-flag" >
+					</li>
+				</ul>
+
+
+
+		</div>
+
+	</div>
+
+	<div id="favourite_countries">
+		<h2>Favourite Countries</h2>
+		<ul>
+			<li v-for="favCountry in favCountries">
+				{{favCountry.name}}
+				<img class="small-flag" :src="favCountry.flag"/>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>
+</body>
+</html>
