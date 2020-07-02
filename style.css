@@ -34,11 +34,17 @@ nav {
 }
 main {
     /* background-color: orange;  */
-    height: 400px;
+    height: 600px;
     text-align: center;
     padding-top: 80px;
     padding-left: 12px;
     padding-right: 12px;
+}
+section {
+    height: auto;
+    text-align: center;
+    padding-right: 100px;
+    
 }
 
 footer {
@@ -139,6 +145,9 @@ footer p {
 }
 ul {
     font-size: 18px;
-    color:rgb(226, 205, 166); ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(226, 205, 166); 
+    list-style-type: none;
+    justify-content: start;
 }
 
