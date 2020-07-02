@@ -16,12 +16,13 @@ header {
 }
 img {
     height: 100px;
-    width: 100px;
+    width:auto;
 }
 #photo {
     height: 300px;
-    width: 210px;
+    width: auto;
     text-align: center;
+    justify-self: auto;
 
 }
 nav {
@@ -123,7 +124,7 @@ footer p {
   
 }
 
-}
+
 .three {
     justify-self: baseline;
     align-self: start;
