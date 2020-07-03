@@ -35,9 +35,9 @@ nav {
 }
 main {
     /* background-color: orange;  */
-    height: 600px;
+    height: auto;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 40px;
     padding-left: 12px;
     padding-right: 12px;
 }
@@ -47,6 +47,9 @@ section {
     padding-right: 100px;
     
 }
+/* .mainPianist {
+    height:450px
+} */
 
 footer {
     background-color: rgba(90, 9, 9, 0.185);
@@ -101,6 +104,32 @@ footer p {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 20px;
+    max-width: 960px;
+    grid-auto-rows: minmax(100px, auto);
+    padding-bottom: 40px;
+}
+.boxOne{
+   justify-self: self-start;
+    align-self: center;
+    margin: 3px 3px 3px 3px;
+    border-style: solid;
+    border-color:rgba(90, 9, 9, 0.418);
+    border-width: 5px;
+    border-radius: 3px;
+
+}
+.boxTwo{
+    justify-items: self-end;
+    align-self: flex-start;
+    text-align: left;
+    
+}
+    
+
 
 .wrapper1{
     display: grid;
@@ -115,7 +144,7 @@ footer p {
 
 .one {
     justify-self: baseline;
-    align-self: flex-start
+    align-self: flex-start;
    
 }
 .two {
@@ -142,7 +171,6 @@ footer p {
 .six{
     justify-self: center;
     align-self: center;
-
 }
 ul {
     font-size: 18px;
@@ -151,4 +179,8 @@ ul {
     list-style-type: none;
     justify-content: start;
 }
-
+label, input, textarea {
+    display: block;
+    color: thistle;
+    font-size: 30px;
+}
