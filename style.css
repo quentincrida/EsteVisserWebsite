@@ -24,7 +24,6 @@ img {
 }
 #photo {
     height: 310px;
-    
     width: auto;
     text-align: center;
     justify-self: auto;
@@ -55,9 +54,6 @@ section {
 .videos {
     width: 1024px;
 }
-
-
-
 footer {
     background-color: rgba(90, 9, 9, 0.185);
     font-family: Barriecito;
@@ -94,7 +90,7 @@ p {
     font-size: 18px;
     color:  rgb(226, 205, 166);
     /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
-    font-family: "Barriecito";
+    font-family: Barriecito;
 }
 a {
     color:  rgb(226, 205, 166);
