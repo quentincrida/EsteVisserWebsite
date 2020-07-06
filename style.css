@@ -7,16 +7,18 @@ body {
     background-image: url(images/The-symbolic-beginning-of-the-nigredo-stage-rendered-by-dark-green-colour-palette-at.png);
     background-size: cover;
     background-repeat: none;
+    width: 1024;
+    
 }
 header {
     /* background-color: rgb(119, 91, 55); */
     height: 118px;
     text-align: center;
-    font-family: fantasy;
-   
+    display: flex;
+    font-family: Barriecito;
 }
 img {
-    height: 100px;
+    height: 75px;
     width:auto;
 }
 #photo {
@@ -41,52 +43,62 @@ main {
     padding-top: 40px;
     padding-left: 12px;
     padding-right: 12px;
+    font-family: Barriecito;
 }
 section {
     height: auto;
     text-align: center;
     padding-right: 100px;
-    
 }
-/* .mainPianist {
-    height:450px
-} */
+.videos {
+    width: 1024px;
+}
+
+
 
 footer {
     background-color: rgba(90, 9, 9, 0.185);
     /* height: 40px; */
+    font-family: Barriecito;
+    position: relative;
   
 }
 .container {
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
+    /* font-family: Barrio; */
 }
 h1 {
     font-size: 60px;
     color: rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Barriecito;
+
 }
 h3 {
     font-size: 40px;
     color:rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Barriecito;
 }
 
 h4 {
     font-size: 20px;
     color:rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Barriecito;
 }
 
 p {
     font-size: 18px;
     color:  rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Barriecito";
 }
 a {
     color:  rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     font-size: 18px;
     /* text-decoration: none; */
 }
@@ -95,11 +107,13 @@ nav a {
     font-size: 14px;
     padding-left: 10px;
     padding-right: 10px;
+    font-family: Barrio;
 }
 footer p {
     font-size: 14px;
     color:  rgb(226, 205, 166);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Barriecito;
     text-align: left;
     padding-left: 50px;
     padding-top: 15px;
@@ -115,10 +129,11 @@ footer p {
 }
 .boxOne{
    justify-self: self-start;
-    align-self: center;
+    align-self: flex-start;
     margin: 3px 3px 3px 3px;
     border-style: solid;
-    border-color:rgba(90, 9, 9, 0.418);
+    /* border-color:rgba(90, 9, 9, 0.418); */
+    color:  rgb(226, 205, 166);
     border-width: 5px;
     border-radius: 3px;
 
@@ -134,22 +149,22 @@ footer p {
 
 .wrapper1{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns:200px 800px ;
     gap: 20px;
-    max-width: 960px;
+    max-width: 600px;
     grid-auto-rows: minmax(100px, auto);
     padding-bottom: 40px;
-    /* align-items: start;
-    justify-items: end; */
+ 
 }
 
 .one {
-    justify-self: baseline;
+    justify-self: last baseline;
     align-self: flex-start;
+    max-width: 400px;
    
 }
 .two {
-    justify-self: self-end;
+    justify-self: self-start;
     align-self: center;
   
 }
@@ -158,11 +173,12 @@ footer p {
 .three {
     justify-self: baseline;
     align-self: start;
+    max-width: 400px;
 
 
 }
 .four{
-    justify-self: self-end;
+    justify-self: self-start;
     align-self: center;
 }
 .five{
@@ -175,16 +191,17 @@ footer p {
 }
 ul {
     font-size: 18px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: Barriecito;
     color:rgb(226, 205, 166); 
     list-style-type: none;
-    justify-content: start;
+    justify-content: left;
 }
 label, input, textarea {
     display: block;
     color:rgb(226, 205, 166);
     font-size: 25px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 input[type=text], [type=email]{
     color:black
@@ -193,13 +210,13 @@ textarea {
     color: black;
 }
 button {
-    font-size: 25px;;
+    font-size: 25px;
+    font-family: Barriecito;
 }
 .mainContact {
     text-align: left;
 }
 .pianistBody {
-    /* background-image: url(images/trebleClefForEste.jpg); */
     background-size: auto;
     background-repeat: none;
     background-size: 100%;
